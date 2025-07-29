@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://securepass-ai.vercel.app/sitemap.xml
+Sitemap: https://iamaanahmad.github.io/securepass-ai/sitemap.xml

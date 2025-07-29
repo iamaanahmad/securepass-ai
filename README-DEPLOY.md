@@ -4,8 +4,8 @@ A modern, secure password generator built with React, TypeScript, and powered by
 
 ## Quick Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/securepass-ai)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/securepass-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/iamaanahmad/securepass-ai)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/iamaanahmad/securepass-ai)
 
 ## Features
 
@@ -28,7 +28,7 @@ A modern, secure password generator built with React, TypeScript, and powered by
 
 1. Clone and install:
    ```bash
-   git clone https://github.com/yourusername/securepass-ai.git
+   git clone https://github.com/iamaanahmad/securepass-ai.git
    cd securepass-ai
    npm install
    ```

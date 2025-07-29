@@ -8,7 +8,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/securepass-ai.git
+git remote add origin https://github.com/iamaanahmad/securepass-ai.git
 git push -u origin main
 ```
 
@@ -26,7 +26,7 @@ git push -u origin main
 ### Step 4: Deploy
 - Push any changes to `main` branch
 - GitHub Actions will automatically build and deploy
-- Your site will be live at: `https://YOUR_USERNAME.github.io/securepass-ai`
+- Your site will be live at: `https://iamaanahmad.github.io/securepass-ai`
 
 ---
 
