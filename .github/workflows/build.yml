@@ -38,6 +38,7 @@ jobs:
     - name: Build project
       run: npm run build
       env:
+        NODE_ENV: production
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
     - name: Setup Pages
