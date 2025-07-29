@@ -1,0 +1,27 @@
+{
+  "name": "securepass-ai:-free-strong-password-generator",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy:vercel": "vercel --prod",
+    "deploy:netlify": "netlify deploy --prod --dir=dist",
+    "setup:github": "echo 'Add GEMINI_API_KEY to GitHub repository secrets'",
+    "setup:vercel": "vercel env add VITE_GEMINI_API_KEY",
+    "setup:netlify": "netlify env:set VITE_GEMINI_API_KEY",
+    "test:build": "npm run build && npm run preview"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "@google/genai": "^1.11.0",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
