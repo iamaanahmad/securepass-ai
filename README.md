@@ -1,12 +1,11 @@
 
 # 🛡️ SecurePass AI: The Ultimate Password Generator
 
-**SecurePass AI is a modern, feature-rich password generator built with React and powered by the Google Gemini API.** It provides a seamless experience for creating both highly random, secure passwords and memorable, AI-generated passphrases. It's designed to be fast, secure, user-friendly, and SEO-optimized.
+**SecurePass AI is a modern, feature-rich password generator built with React and powered by the Google Gemini API.** It provides a seamless experience for creating both highly random, secure passwords and memorable, AI-generated passphrases.
 
-**[Try the Live Demo!](#) &lt;-- *Replace with your live URL***
+**[Try the Live Demo!](https://iamaanahmad.github.io/securepass-ai/) &lt;--**
 
-![SecurePass AI Screenshot](https://storage.googleapis.com/framer-screenshots/project-2/2024-06-25/1719356396860.png)
-*(Note: This is a placeholder image. Replace with a screenshot or GIF of your application.)*
+![SecurePass AI Screenshot](https://i.ibb.co/Y7H7w5RP/image.png)
 
 ---
 
